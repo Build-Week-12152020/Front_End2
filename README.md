@@ -1,2 +1,2 @@
 # Front_End2
-This is the new repo we will be implementing on. Disregard the original.
+We changed our mind, see "front_end" directory
